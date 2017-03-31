@@ -8,7 +8,7 @@ int shapeArea(int n) {
     //LOOP through till less than n
     for(int x = 0; x < n; x++)
         
-        //SUM area + 4 time each iteration
+        //SUM area + 4 times each iteration
         area += (4 * x);
     
     //RETURN area
