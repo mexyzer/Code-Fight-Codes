@@ -17,3 +17,5 @@ int avoidObstacles(std::vector<int> inputArray) {
         }
     }
 }
+
+//Position: 1684
