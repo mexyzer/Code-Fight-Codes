@@ -1,3 +1,5 @@
+//Find the minimal length of the jump enough to avoid all the obstacles.
+
 int avoidObstacles(std::vector<int> inputArray) {
     //Sort the inputArray
     sort(inputArray.begin(), inputArray.end());
