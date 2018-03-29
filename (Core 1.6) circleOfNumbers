@@ -18,3 +18,9 @@ int circleOfNumbers(int n, int firstNumber) {
 }
 
 // Position: 5396
+
+// Better short answer
+
+int circleOfNumbers(int n, int firstNumber) {
+    return (firstNumber + n / 2) % n;
+}
